@@ -1,1 +1,1 @@
-Userscripts folder for gaiagps.com
+A collection of userscripts for gaiagps.com
