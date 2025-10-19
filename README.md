@@ -1,4 +1,4 @@
-# GAIA-GPS-Gizmos
+# Scriptorium
 A collection of userscripts
 
 ## Userscripts
