@@ -1,5 +1,5 @@
 # GAIA-GPS-Gizmos
-These userscripts add UI enhancements to the gaiagps.com webapp
+A collection of userscripts for gaiagps.com
 
 - flyToSwatter - kills the flyTo (center+zoom) behavior when you click on a waypoint
 - 
