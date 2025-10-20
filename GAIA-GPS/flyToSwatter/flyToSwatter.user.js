@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GAIA prevent waypoint click flyTo behavior
 // @namespace    https://github.com/bharker75
-// @version      2025-10-16
+// @version      v1.0.0
 // @description  Stop flyTo behavior when a waypoint is clicked
 // @author       bharker75
 // @match        https://www.gaiagps.com/*
