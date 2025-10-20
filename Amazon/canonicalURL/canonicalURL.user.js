@@ -4,7 +4,7 @@
 // @version        v1.0.0
 // @description    Replace URL with the canonical link
 // @author         bharker75
-// @include        https://www.amazon.com/*
+// @match        https://www.amazon.com/*
 // @icon           https://www.amazon.com/favicon.ico
 // @grant          none
 // @license        MIT
