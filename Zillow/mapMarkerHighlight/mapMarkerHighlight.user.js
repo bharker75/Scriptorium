@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name         Zillow Map Marker Highlight (Optimized)
-// @namespace    http://tampermonkey.net/
-// @version      1.5
+// @name         Zillow Map Marker Highlight
+// @namespace    bharker75
+// @version      v1.5.0
 // @description  Highlight Zillow map markers efficiently
-// @author       You
+// @author       bharker75
 // @match        https://www.zillow.com/*
 // @grant        GM_addStyle
+// @license      MIT
 // ==/UserScript==
 
 (function() {
